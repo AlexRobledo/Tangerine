@@ -1,0 +1,12 @@
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\bin\Debug\Tangerine.exe.config
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\bin\Debug\Tangerine.exe
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\bin\Debug\Tangerine.pdb
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.csprojResolveAssemblyReference.cache
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.MenuPrincipal.resources
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.Properties.Resources.resources
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.csproj.GenerateResource.Cache
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.csproj.CoreCompileInputs.cache
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.exe
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.pdb
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.GridViewForm.resources
+C:\Users\alx_h\Documents\CUCEI\Sexto\Minería de Datos\Proyecto\Tangerine\Tangerine\obj\Debug\Tangerine.csproj.ResolveComReference.cache
